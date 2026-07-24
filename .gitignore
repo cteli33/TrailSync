@@ -1,0 +1,8 @@
+backend/.venv/
+backend/trailplan.db
+backend/server.log
+backend/__pycache__/
+backend/**/__pycache__/
+frontend/node_modules/
+frontend/dev.log
+frontend/dist/
